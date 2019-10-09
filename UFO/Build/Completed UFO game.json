@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "UFO Game",
+"productVersion": "1.0",
+"dataUrl": "Completed UFO game.data.unityweb",
+"asmCodeUrl": "Completed UFO game.asm.code.unityweb",
+"asmMemoryUrl": "Completed UFO game.asm.memory.unityweb",
+"asmFrameworkUrl": "Completed UFO game.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.1f1"
+}
